@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class audioController : MonoBehaviour
 {
+
+    //audio sources: 
+    //https://opengameart.org/content/sans-un-bruit
+    //https://opengameart.org/content/tiny-swords-duel
+    
     public AudioSource musicSource;
     public AudioClip musicClipOne;
     public AudioClip musicClipTwo;
